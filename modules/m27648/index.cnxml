@@ -1,0 +1,282 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+  <title>Câu hỏi trắc nghiệm phần Đạo Tin lành</title>
+  <metadata>
+  <md:content-id>m27648</md:content-id><md:title>Câu hỏi trắc nghiệm phần Đạo Tin lành</md:title>
+  <md:abstract>Câu hỏi trắc nghiệm về Đạo Tin lành</md:abstract>
+  <md:uuid>0b015329-81db-460d-823e-cc955ad1a837</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="element-730"><q:item id="q601" type="single-response">
+<q:question>
+Đạo Tin Lành ra đời vào thế kỷ nào?
+</q:question>
+
+<q:answer id="q6011">
+<q:response>Thế kỷ XV</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6012">
+<q:response>Thế kỷ XVI</q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:answer id="q6013">
+<q:response>Thế kỷ XVII</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6014">
+<q:response>Thế kỷ XVIII</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:key answer="q6012"/>
+
+</q:item>
+
+</exercise><exercise id="element-997"><q:item id="q602" type="single-response">
+<q:question>
+Tìm các câu sai trong các câu sau đây?
+</q:question>
+
+<q:answer id="q6021">
+<q:response>Đạo Tin Lành ra đời gắn với tên tuổi của hai đại biểu là Mactin Luthơ và Giang Canvanh</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6022">
+<q:response>Đạo Tin Lành cho phép mục sư có gia đình riêng </q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6023">
+<q:response>Đạo Tin Lành coi Kinh thánh là cuốn sách mà chỉ có các giáo sĩ mới được kê cứu và giảng giải</q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:answer id="q6024">
+<q:response>Đạo Tin Lành coi Kinh thánh là chuẩn mực căn bản duy nhất của sự hành đạo</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:key answer="q6023"/>
+
+</q:item></exercise><exercise id="element-774"><q:item id="q603" type="single-response">
+<q:question>
+Đạo Tin Lành chịu ảnh hưởng tư tưởng của giai cấp nào?
+</q:question>
+
+<q:answer id="q6031">
+<q:response>Chủ nô</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6032">
+<q:response>Phong kiến</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6033">
+<q:response>Tư sản</q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:answer id="q6034">
+<q:response>Cả 3 giai cấp trên</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:key answer="q6033"/>
+
+</q:item></exercise><exercise id="element-830"><q:item id="q604" type="single-response">
+<q:question>
+So với nghi lễ của Công giáo, nghi lễ của đạo Tin Lành:
+</q:question>
+
+<q:answer id="q6041">
+<q:response>Cũng tương tự</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6042">
+<q:response>Phức tạp hơn</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6043">
+<q:response>Đơn giản hơn</q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:answer id="q6044">
+<q:response>Tất cả đều sai</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:key answer="q6043"/>
+
+</q:item></exercise><exercise id="element-923"><q:item id="q605" type="single-response">
+<q:question>
+Trong đạo Tin Lành, tín đồ xưng tội với ai?
+</q:question>
+
+<q:answer id="q6051">
+<q:response>Linh mục</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6052">
+<q:response>Giám mục</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6053">
+<q:response>a và b cùng đúng</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6054">
+<q:response>a và b cùng sai</q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:key answer="q6054"/>
+
+</q:item></exercise><exercise id="element-224"><q:item id="q606" type="single-response">
+<q:question>
+Trong các câu sau, câu nào sai?
+</q:question>
+
+<q:answer id="q6061">
+<q:response>Đạo Tin Lành chủ trương xây dựng giáo hội riêng rẽ</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6062">
+<q:response>Giáo sĩ đạo Tin Lành có vai trò tuyệt đối với các tin đồ </q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:answer id="q6063">
+<q:response>Giáo sĩ đạo Tin Lành chịu sự kiểm soát của các tín đồ</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6064">
+<q:response>Nhà thờ đạo Tin Lành có cấu trúc hiện đại nhưng bài trí đơn giản</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:key answer="q6062"/>
+
+</q:item></exercise><exercise id="element-141"><q:item id="q607" type="single-response">
+<q:question>
+Đạo Tin Lành được truyền vào Việt Nam đầu tiên bởi tổ chức Tin Lành nào?
+</q:question>
+
+<q:answer id="q6071">
+<q:response>Liên hiệp phúc âm truyền giáo</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6072">
+<q:response>CMA</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6073">
+<q:response>Giáo hội Cơ đốc phục lâm</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6074">
+<q:response>a và b cùng đúng </q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:key answer="q6074"/>
+
+</q:item></exercise><exercise id="element-277"><q:item id="q608" type="single-response">
+<q:question>
+Đạo Tin Lành xây dựng được cơ sở đầu tiên tại Việt Nam năm nào?
+</q:question>
+
+<q:answer id="q6081">
+<q:response>Năm 1901</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6082">
+<q:response>Năm 1911</q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:answer id="q6083">
+<q:response>Năm 1927</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6084">
+<q:response>Năm 1939</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:key answer="q6082"/>
+
+</q:item></exercise><exercise id="element-256"><q:item id="q609" type="single-response">
+<q:question>
+Ở Việt Nam có giáo hội Tin Lành Đề Ga hay không?
+</q:question>
+
+<q:answer id="q6091">
+<q:response>Có</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6092">
+<q:response>Không</q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:answer id="q6093">
+<q:response>Mới có gần đây</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:key answer="q6092"/>
+
+</q:item></exercise><exercise id="element-464"><q:item id="q610" type="single-response">
+<q:question>
+Việc bịa đặt ra cái gọi là Tin Lành Đề Ga của các tổ chức phản động nhằm mục đích gì?
+</q:question>
+
+<q:answer id="q6101">
+<q:response>Kích động sự ly khai trong cộng đồng dân tộc ở Tây Nguyên</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6102">
+<q:response>Gây ra sự mất ổn định về an ninh trật tự của đất nước</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6103">
+<q:response>Chia rẽ sự toàn vẹn lãnh thổ của Việt Nam</q:response>
+<q:feedback> Sai</q:feedback>
+</q:answer>
+
+<q:answer id="q6104">
+<q:response>Cả a, b, c cùng đúng</q:response>
+<q:feedback> Đúng</q:feedback>
+</q:answer>
+
+<q:key answer="q6104"/>
+
+</q:item></exercise><para id="delete_me">
+       <!-- Insert module text here -->
+    </para>   
+  </content>
+  
+</document>

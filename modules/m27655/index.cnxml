@@ -1,0 +1,286 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+  <title>Câu hỏi trắc nghiệm về "Những yếu tố cấu thành một Tôn giáo"</title>
+  <metadata>
+  <md:content-id>m27655</md:content-id><md:title>Câu hỏi trắc nghiệm về "Những yếu tố cấu thành một Tôn giáo"</md:title>
+  <md:abstract>Câu hỏi trắc nghiệm về "Những yếu tố cấu thành một Tôn giáo"</md:abstract>
+  <md:uuid>b895e6ef-2ce1-466c-900b-215274275a67</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="element-841"><q:item id="q31" type="single-response"> 
+	<q:question>
+	   Niềm tin tôn giáo là niềm tin?
+	</q:question>
+	    
+	<q:answer id="q311">
+		<q:response>Không cần chứng minh</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q312">
+		<q:response>Con người hiểu rất rõ ràng</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q313">
+		<q:response>Chứng minh được</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q314">
+		<q:response>Giống với niềm tin đối với các học thuyết</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q311"/>
+	    
+</q:item></exercise><exercise id="element-713"><q:item id="q32" type="single-response"> 
+	<q:question>
+	   Giữa niềm tin tôn giáo và việc am hiểu nội dung tôn giáo quan hệ với nhau như thế nào?
+	</q:question>
+	    
+	<q:answer id="q321">
+		<q:response>Quan hệ mật thiết với nhau</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q322">
+		<q:response>Hoàn toàn đối lập nhau</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q323">
+		<q:response>Có phần độc lập với nhau</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q324">
+		<q:response>Cả a, b. c cùng sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q323"/>
+	    
+</q:item></exercise><exercise id="element-917"><q:item id="q33" type="single-response"> 
+	<q:question>
+	   Đối với một cá nhân, niềm tin tôn giáo  thay đổi phụ thuộc vào yếu tố nào?
+	</q:question>
+	    
+	<q:answer id="q331">
+		<q:response>Tuổi tác</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q332">
+		<q:response>Những thăng trầm của cuộc sống</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q333">
+		<q:response>Sức khoẻ</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q334">
+		<q:response>a, b, c cùng đúng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q334"/>
+	    
+</q:item></exercise><exercise id="element-977"><q:item id="q34" type="single-response"> 
+	<q:question>
+	   Nội dung một tôn giáo gồm có những vấn đề gì?
+	</q:question>
+	    
+	<q:answer id="q341">
+		<q:response>Thế giới bên kia</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q342">
+		<q:response>Những huyền thoại và triết lý</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q343">
+		<q:response>Cả a và b</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q344">
+		<q:response>Tất cả cùng sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q343"/>
+	    
+</q:item>
+</exercise><exercise id="element-366"><q:item id="q35" type="single-response"> 
+	<q:question>
+	   Giáo lý cuả một tôn giáo gồm những yếu tố nào?
+	</q:question>
+	    
+	<q:answer id="q351">
+		<q:response>Huyền thoại</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q352">
+		<q:response>Triết lý</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q353">
+		<q:response>Vay mượn một phần giáo lý của các tôn giáo khác</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q354">
+		<q:response>a, b, c cùng đúng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q354"/>
+	    
+</q:item></exercise><exercise id="element-538"><q:item id="q36" type="single-response"> 
+	<q:question>
+	   Nghi lễ tôn giáo là gì?
+	</q:question>
+	    
+	<q:answer id="q361">
+		<q:response>Là sự kính trọng đối với thần linh</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q362">
+		<q:response>Sự gắn bó trong cộng đồng</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q363">
+		<q:response>Là sự giao tiếp của con người với thần linh</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q364">
+		<q:response>Tất cả cùng đúng</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q363"/>
+	    
+</q:item></exercise><exercise id="element-281"><q:item id="q37" type="single-response"> 
+	<q:question>
+	   Trong các lễ hội sau đây,  lễ hội nào là lễ hội tôn giáo?
+	</q:question>
+	    
+	<q:answer id="q371">
+		<q:response>Phật đản</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q372">
+		<q:response>Nôen</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q373">
+		<q:response>Mừng năm mới</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q374">
+		<q:response>a, b đúng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q374"/>
+	    
+</q:item></exercise><exercise id="element-617"><q:item id="q38" type="single-response"> 
+	<q:question>
+	   Trong các câu sau đây, câu nào sai?
+	</q:question>
+	    
+	<q:answer id="q381">
+		<q:response>Bất kỳ tôn giáo nào đang tồn tại cũng cần phải có hành vi thờ cúng</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q382">
+		<q:response>Không có hành vi thờ cúng, không có tôn giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q383">
+		<q:response>Hành vi thờ cúng phải được thực hiện dưới  hình thức cộng đồng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q384">
+		<q:response>Giữa nghi lễ tôn giáo và thế tục có thể có ranh giới  không rõ ràng</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q383"/>
+	    
+</q:item></exercise><exercise id="element-104"><q:item id="q39" type="single-response"> 
+	<q:question>
+	   Trong các câu sau đây, câu nào sai?
+	</q:question>
+	    
+	<q:answer id="q391">
+		<q:response>Trong xã hội nguyên thuỷ, giữa tổ chức tôn giáo và tổ chức điều hành xã hội đã có sự phân biệt rõ ràng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q392">
+		<q:response>Không thể dựa vào tính tổ chức để đánh giá sự hơn kém giữa các tôn giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q393">
+		<q:response>Một tôn giáo có tổ chức chặt chẽ sẽ thuận lợi hơn trong việc phát triển và truyền bá</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q394">
+		<q:response>Cộng đồng tôn giáo và tổ chức tôn giáo là khác nhau</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q391"/>
+	    
+</q:item></exercise><exercise id="element-570"><q:item id="q310" type="single-response"> 
+	<q:question>
+	   Phạm vi ảnh hưởng của giáo hội như thế nào?
+	</q:question>
+	    
+	<q:answer id="q3101">
+		<q:response>Trong một bộ phận của dân tộc</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q3102">
+		<q:response>Trong phạm vi một dân tộc</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q3103">
+		<q:response>Có khi vượt ra khỏi phạm vi quốc gia</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q3104">
+		<q:response>Tất cả cùng đúng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q3104"/>
+	    
+</q:item></exercise><para id="delete_me">
+       <!-- Insert module text here -->
+    </para>   
+  </content>
+  
+</document>

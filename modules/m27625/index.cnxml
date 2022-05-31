@@ -1,0 +1,542 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+  <title>Câu hỏi trắc nghiệm phần Nhập môn Tôn giáo học</title>
+  <metadata>
+  <md:content-id>m27625</md:content-id><md:title>Câu hỏi trắc nghiệm phần Nhập môn Tôn giáo học</md:title>
+  <md:abstract>Các câu hỏi trắc nghiệm cho về Khái niệm Tôn giáo</md:abstract>
+  <md:uuid>66d04089-3014-4fcf-a309-25dd78f84d0f</md:uuid>
+</metadata>
+
+<content>
+<exercise id="q1b1">
+    <q:item id="q11" type="single-response"> 
+	<q:question>
+	      Thuật ngữ tôn giáo có nguồn gốc từ?
+	</q:question>
+	    
+	<q:answer id="phuongtay">
+		<q:response>Phương Tây</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="vietnam">
+		<q:response>Việt nam</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="trungquoc">
+		<q:response>Trung Quốc</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="ptvntq">
+		<q:response>Tất cả cùng đúng</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="phuongtay"/>
+	    
+</q:item>
+</exercise><exercise id="element-741"><q:item id="q12" type="single-response"> 
+	<q:question>
+	      Thuật ngữ Tông giáo vốn dùng để chỉ đạo nào?
+	</q:question>
+	    
+	<q:answer id="conggiao">
+		<q:response>Công giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="phatgiao">
+		<q:response>Phật giáo</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="cactongiao">
+		<q:response>Các tôn giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="tatca12">
+		<q:response>Tất cả đều đúng</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="phatgiao"/>
+	    
+</q:item>
+
+</exercise><exercise id="element-793"><q:item id="q13" type="single-response"> 
+	<q:question>
+	      Các từ sau đây, từ nào viết sai?
+	</q:question>
+	    
+	<q:answer id="q13phatgiao">
+		<q:response>Phật giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q13conggiao">
+		<q:response>Công giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q13tinlanhgiao">
+		<q:response>Tin lành giáo</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q13hoigiao">
+		<q:response>Hồi giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q13tinlanhgiao"/>
+	    
+</q:item>
+</exercise><exercise id="element-474"><q:item id="q14" type="single-response"> 
+	<q:question>
+	      Các thuật ngữ chỉ tôn giáo sau đây, thuật ngữ nào thuần Việt?
+	</q:question>
+	    
+	<q:answer id="q141">
+		<q:response>Đạo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q142">
+		<q:response>Giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q143">
+		<q:response>Thờ</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q144">
+		<q:response>Tât cả đều sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q143"/>
+	    
+</q:item>
+</exercise><exercise id="element-147"><q:item id="q15" type="single-response"> 
+	<q:question>
+	      Tôn giáo xuất hiện khi nào?
+	</q:question>
+	    
+	<q:answer id="q151">
+		<q:response>Khi loài người xuất hiện</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q152">
+		<q:response>Trong vài thế kỷ gần đây</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q153">
+		<q:response>Cách đây vài chục ngàn năm</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q154">
+		<q:response>Tất cả đều sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q153"/>
+	    
+</q:item>
+</exercise><exercise id="element-446"><q:item id="q16" type="single-response"> 
+	<q:question>
+	      Quan điểm nào sau đây đúng?
+	</q:question>
+	    
+	<q:answer id="q161">
+		<q:response>Tôn giáo tạo ra con người</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q162">
+		<q:response>Tôn giáo là nhu cầu không thể thiếu của con người</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q163">
+		<q:response>Con người tạo ra tôn giáo</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q164">
+		<q:response>Con người không cần đến tôn giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q163"/>
+	    
+</q:item>
+</exercise><exercise id="element-680"><q:item id="q17" type="single-response"> 
+	<q:question>
+	      Tô tem giáo là?
+	</q:question>
+	    
+	<q:answer id="q171">
+		<q:response>Phép phù thuỷ</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q172">
+		<q:response>Tin vào linh hồn </q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q173">
+		<q:response>Bùa hộ mệnh</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q174">
+		<q:response>Thờ vật tổ</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q174"/>
+	    
+</q:item>
+</exercise><exercise id="element-113"><q:item id="q18" type="single-response"> 
+	<q:question>
+	      Ma thuật giáo là?
+	</q:question>
+	    
+	<q:answer id="q181">
+		<q:response>Thờ vật tổ</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q182">
+		<q:response>Bùa hộ mệnh</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q183">
+		<q:response>Phép phù thuỷ</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q184">
+		<q:response>Tin vào  linh hồn</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q184"/>
+	    
+</q:item>
+</exercise><exercise id="element-425"><q:item id="q19" type="single-response"> 
+	<q:question>
+	      Bái vật giáo là?
+	</q:question>
+	    
+	<q:answer id="q191">
+		<q:response>Tin vào linh hồn</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q192">
+		<q:response>Thờ vật tổ</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q193">
+		<q:response>Phép phù thuỷ</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q194">
+		<q:response>Bùa hộ mệnh</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q194"/>
+	    
+</q:item>
+</exercise><exercise id="element-896"><q:item id="q110" type="single-response"> 
+	<q:question>
+	      Các tôn giáo sau đây, tôn giáo nào là tôn giáo thế giới?
+	</q:question>
+	    
+	<q:answer id="q1101">
+		<q:response>Phật giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1102">
+		<q:response>Công giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1103">
+		<q:response>Hồi giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q1104">
+		<q:response>Tất cả đều đúng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1104"/>
+	    
+</q:item>
+</exercise><exercise id="element-162"><q:item id="q111" type="single-response"> 
+	<q:question>
+	      Các tôn giáo sau đây, tôn giáo nào là tôn giáo dân tộc?
+	</q:question>
+	    
+	<q:answer id="q1111">
+		<q:response>Do Thái giáo</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1112">
+		<q:response>Đạo Cao Đài</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1113">
+		<q:response>a, b cùng sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q1114">
+		<q:response>a, b cùng đúng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1114"/>
+	    
+</q:item>
+</exercise><exercise id="element-142"><q:item id="q112" type="single-response"> 
+	<q:question>
+	      Tôn giáo học là khoa học nghiên cứu về?
+	</q:question>
+	    
+	<q:answer id="q1121">
+		<q:response>Tôn giáo</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1122">
+		<q:response>Thần thánh</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1123">
+		<q:response>Thiên đàng và địa ngục</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q1124">
+		<q:response>Tất cả cùng đúng</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1122"/>
+	    
+</q:item>
+</exercise><exercise id="element-525"><q:item id="q113" type="single-response"> 
+	<q:question>
+	      Với tư cách là những hình thái ý thức xã hội, tôn giáo và khoa học  khác nhau về điểm nào?
+	</q:question>
+	    
+	<q:answer id="q1131">
+		<q:response>Đối tượng phản ánh</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1132">
+		<q:response>Cách thức phản ánh</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1133">
+		<q:response>Cả a, b cùng đúng</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q1134">
+		<q:response>Cả a, b cùng sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1132"/>
+	    
+</q:item>
+</exercise><exercise id="element-35"><q:item id="q114" type="single-response"> 
+	<q:question>
+	      Điền từ còn thiếu vào chỗ trống : "Tôn giáo là một hình thái ý thức – xã hội phản ánh một cách hoang đường, hư ảo ............... khách quan. Qua sự phản ánh của tôn giáo, những sức mạnh tự phát trong tự nhiên và xã hội đều trở thành thần bí."
+	</q:question>
+	    
+	<q:answer id="q1141">
+		<q:response>Thực tiễn</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1142">
+		<q:response>Hiện thực</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1143">
+		<q:response>Điều kiện</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q1144">
+		<q:response>Cuộc sống</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1142"/>
+	    
+</q:item>
+</exercise><exercise id="element-254"><q:item id="q115" type="single-response"> 
+	<q:question>
+	      Nhận định: "Tôn giáo và chủ nghĩa duy tâm giống nhau về nội dung, khác nhau về hình thức biểu hiện." Đúng hay sai?
+	</q:question>
+	    
+	<q:answer id="q1151">
+		<q:response>Đúng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1152">
+		<q:response>Sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1153">
+		<q:response>Vừa đúng vừa sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1151"/>
+	    
+</q:item>
+</exercise><exercise id="element-750"><q:item id="q116" type="single-response"> 
+	<q:question>
+	      Điểm chung giữa tôn giáo và  triết học là gì?
+	</q:question>
+	    
+	<q:answer id="q1161">
+		<q:response>Đặt ra và giải quyết những vấn đề có tính chất thế giới quan.</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1162">
+		<q:response>Đặt ra và giải quyết những vấn đề có tính chất nhân sinh quan</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1163">
+		<q:response>Cả tôn giáo và triết học đều có mối liên hệ với cơ sở kinh tế</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q1164">
+		<q:response>Cả a,b,c đều đúng</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1164"/>
+	    
+</q:item>
+</exercise><exercise id="element-217"><q:item id="q117" type="single-response"> 
+	<q:question>
+	      Khi xem xét nguồn gốc của tôn giáo, chủ nghĩa Mác-Lênin quan tâm trước hết đến nguồn gốc nào của tôn giáo?
+	</q:question>
+	    
+	<q:answer id="q1171">
+		<q:response>Nguồn gốc tâm lý</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1172">
+		<q:response>Nguồn gốc nhận thức</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1173">
+		<q:response>Nguồn gốc kinh tế – xã hội</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q1174">
+		<q:response>Cả a, b, c đều sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1173"/>
+	    
+</q:item>
+</exercise><exercise id="element-191"><q:item id="q118" type="single-response"> 
+	<q:question>
+	      Luận điểm “Sự sợ hãi sinh ra thần thánh” đề cập đến nguồn gốc nào của tôn giáo?
+	</q:question>
+	    
+	<q:answer id="q1181">
+		<q:response>Nguồn gốc kinh tế-xã hội</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1182">
+		<q:response>Nguồn gốc tâm lý</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1183">
+		<q:response>Nguồn gốc nhận thức</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+
+	<q:answer id="q1184">
+		<q:response>Cả a, b, c đều sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1182"/>
+	    
+</q:item>
+</exercise><exercise id="element-735"><q:item id="q119" type="single-response"> 
+	<q:question>
+	      Luận điểm của V.I. Lênin: “...Thượng đế siêu hình không phải là cái gì khác mà là sự tập hợp, là toàn bộ những đặc tính chung nhất rút ra từ giới tự nhiên, song con người nhờ vào sức tưởng tượng, tức là chính bằng phương pháp tách rời như thế khỏi bản chất cảm tính, khỏi vật chất của giới tự nhiên, lại đem giới tự nhiên biến thành một chủ thể hay là một thực thể độc lập.”  đề cập đến nguồn gốc nào của tôn giáo?
+	</q:question>
+	    
+	<q:answer id="q1191">
+		<q:response>Nguồn gốc kinh tế-xã hội</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1192">
+		<q:response>Nguồn gốc tâm lý</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:answer id="q1193">
+		<q:response>Nguồn gốc nhận thức</q:response>
+		<q:feedback>Đúng</q:feedback>
+	</q:answer>
+
+	<q:answer id="q1194">
+		<q:response>Cả a, b, c đều sai</q:response>
+		<q:feedback>Sai</q:feedback>
+	</q:answer>
+	    
+	<q:key answer="q1193"/>
+	    
+</q:item>
+</exercise> 
+  </content>
+  
+</document>
