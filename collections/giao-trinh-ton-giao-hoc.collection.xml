@@ -1,3 +1,89 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10830</md:content-id>  <md:title>Giáo trình Tôn giáo học</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>      <md:uuid>b8bf970f-cb0a-41d8-a824-6a956278da2c</md:uuid>
-<md:slug>giao-trinh-ton-giao-hoc</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Nhập môn Tôn giáo học</md:title>                                <col:content>                    <col:module document="m27718"/>                            <col:module document="m28128"/>                            <col:module document="m27625"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chức năng của Tôn giáo - Tình hình diễn biến và xu thế đời sống Tôn giáo trên thế giới</md:title>                                <col:content>                    <col:module document="m27605"/>                            <col:module document="m28075"/>                            <col:module document="m27614"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title> Những yếu tố cấu thành một Tôn giáo</md:title>                                <col:content>                    <col:module document="m28071"/>                            <col:module document="m27964"/>                            <col:module document="m27604"/>                            <col:module document="m28095"/>                            <col:module document="m27655"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Phật giáo</md:title>                                <col:content>                    <col:module document="m27968"/>                            <col:module document="m27975"/>                            <col:module document="m27653"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Công giáo  </md:title>                                <col:content>                    <col:module document="m27970"/>                            <col:module document="m27657"/>                            <col:module document="m27640"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Đạo Tin lành</md:title>                                <col:content>                    <col:module document="m27724"/>                            <col:module document="m28114"/>                            <col:module document="m27648"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Hồi giáo  </md:title>                                <col:content>                    <col:module document="m27958"/>                            <col:module document="m27919"/>                            <col:module document="m27629"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Đạo Cao đài và Phật giáo Hoà hảo</md:title>                                <col:content>                    <col:module document="m28116"/>                            <col:module document="m27976"/>                            <col:module document="m27620"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chính sách Tôn giáo của Đảng và nhà nước ta</md:title>                                <col:content>                    <col:module document="m27984"/>                            <col:module document="m27980"/>                            <col:module document="m27946"/>                            <col:module document="m27611"/>                          </col:content>      </col:subcollection>              <col:module document="m28082"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Ha Le">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10830</md:content-id>
+    <md:title>Gi&#xE1;o tr&#xEC;nh T&#xF4;n gi&#xE1;o h&#x1ECD;c</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>b8bf970f-cb0a-41d8-a824-6a956278da2c</md:uuid>
+    <md:slug>giao-trinh-ton-giao-hoc</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Nh&#x1EAD;p m&#xF4;n T&#xF4;n gi&#xE1;o h&#x1ECD;c</md:title>
+      <col:content>
+        <col:module document="m27718"/>
+        <col:module document="m28128"/>
+        <col:module document="m27625"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ch&#x1EE9;c n&#x103;ng c&#x1EE7;a T&#xF4;n gi&#xE1;o - T&#xEC;nh h&#xEC;nh di&#x1EC5;n bi&#x1EBF;n v&#xE0; xu th&#x1EBF; &#x111;&#x1EDD;i s&#x1ED1;ng T&#xF4;n gi&#xE1;o tr&#xEA;n th&#x1EBF; gi&#x1EDB;i</md:title>
+      <col:content>
+        <col:module document="m27605"/>
+        <col:module document="m28075"/>
+        <col:module document="m27614"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title> Nh&#x1EEF;ng y&#x1EBF;u t&#x1ED1; c&#x1EA5;u th&#xE0;nh m&#x1ED9;t T&#xF4;n gi&#xE1;o</md:title>
+      <col:content>
+        <col:module document="m28071"/>
+        <col:module document="m27964"/>
+        <col:module document="m27604"/>
+        <col:module document="m28095"/>
+        <col:module document="m27655"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ph&#x1EAD;t gi&#xE1;o</md:title>
+      <col:content>
+        <col:module document="m27968"/>
+        <col:module document="m27975"/>
+        <col:module document="m27653"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>C&#xF4;ng gi&#xE1;o  </md:title>
+      <col:content>
+        <col:module document="m27970"/>
+        <col:module document="m27657"/>
+        <col:module document="m27640"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>&#x110;&#x1EA1;o Tin l&#xE0;nh</md:title>
+      <col:content>
+        <col:module document="m27724"/>
+        <col:module document="m28114"/>
+        <col:module document="m27648"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>H&#x1ED3;i gi&#xE1;o  </md:title>
+      <col:content>
+        <col:module document="m27958"/>
+        <col:module document="m27919"/>
+        <col:module document="m27629"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>&#x110;&#x1EA1;o Cao &#x111;&#xE0;i v&#xE0; Ph&#x1EAD;t gi&#xE1;o Ho&#xE0; h&#x1EA3;o</md:title>
+      <col:content>
+        <col:module document="m28116"/>
+        <col:module document="m27976"/>
+        <col:module document="m27620"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ch&#xED;nh s&#xE1;ch T&#xF4;n gi&#xE1;o c&#x1EE7;a &#x110;&#x1EA3;ng v&#xE0; nh&#xE0; n&#x1B0;&#x1EDB;c ta</md:title>
+      <col:content>
+        <col:module document="m27984"/>
+        <col:module document="m27980"/>
+        <col:module document="m27946"/>
+        <col:module document="m27611"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m28082"/>
+  </col:content>
+</col:collection>
